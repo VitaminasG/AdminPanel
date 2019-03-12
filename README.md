@@ -1,3 +1,5 @@
 # AdminPanel
 
-Copy and paste from my personal code of Birkbeck University - final marked assignment for PHP. Just to show for you my procedural PHP skills.
+Just a simple Copy and Paste from my final marked assignment for PHP - Birkbeck University.
+
+No OOP PHP just a simple procedural PHP  :shit:
